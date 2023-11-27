@@ -3,7 +3,10 @@ title: "Lab 07: Multiobjective Optimization"
 subtitle: ""
 author: "CEVE 421/521"
 jupyter: julia-1.9
-date: 2024-03-08
+date: 2024-03-01
+week: 08
+categories: [Lab]
+
 format: 
     html: default
 #    pdf:
