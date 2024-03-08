@@ -1,3 +1,3 @@
-# Lab 02: Julia Basics
+# Lab 07
 
-This is a placeholder for the lab.
+CEVE 421-521
