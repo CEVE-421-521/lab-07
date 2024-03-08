@@ -26,6 +26,7 @@ format:
     #`    code-line-numbers: true
 
 date-format: "ddd., MMM. D"
+references: references.bib
 ---
 
 # Introduction
