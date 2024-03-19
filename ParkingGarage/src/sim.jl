@@ -60,7 +60,7 @@ function run_timestep(
 
     # revenue -- you can only sell parking spaces that you have AND that are wanted
     capacity = calculate_capacity(x)
-    revenue = 11_000 * min(capacity, demand)
+    revenue = 11_000 * min(capacity, x.demand)
 
     # lease costs are fixed
     lease_cost = 3_600_000
